@@ -3,6 +3,6 @@ jsonpickle==0.9.3
 mock==2.0.0
 munch==2.0.4
 pbr==1.10.0
-py==1.4.32
+py==1.11.0
 pytest==3.0.5
 wrapt==1.10.8
